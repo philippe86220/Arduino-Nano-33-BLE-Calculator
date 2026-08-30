@@ -431,6 +431,12 @@ enchaînement de plusieurs opérations
 A/C pendant une saisie et après un résultat
 ```
 
+## Schéma électronique
+
+Le schéma complet est disponible ici :
+
+[Consulter le schéma électronique](hardware/Schematic_calculatrice.pdf)
+
 ## Auteur
 
 **Philippe COSTES**
