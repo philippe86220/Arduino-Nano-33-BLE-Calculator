@@ -437,6 +437,10 @@ Le schéma complet est disponible ici :
 
 [Consulter le schéma électronique](hardware/Schematic_calculatrice.png)
 
+## Aperçu 
+
+![Calculatrice Arduino Nano 33 BLE](images/calculatrice.jpg)
+
 ## Auteur
 
 **Philippe COSTES**
