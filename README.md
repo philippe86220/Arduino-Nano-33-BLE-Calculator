@@ -439,7 +439,11 @@ Le schéma complet est disponible ici :
 
 ## Aperçu 
 
-![Calculatrice Arduino Nano 33 BLE](images/calculatrice.jpg)
+<p align="center">
+  <img src="images/calculatrice.JPG"
+       alt="Calculatrice Arduino Nano 33 BLE"
+       width="450">
+</p>
 
 ## Auteur
 
