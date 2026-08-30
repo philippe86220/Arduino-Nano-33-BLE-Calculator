@@ -435,7 +435,7 @@ A/C pendant une saisie et après un résultat
 
 Le schéma complet est disponible ici :
 
-[Consulter le schéma électronique](hardware/Schematic_calculatrice.pdf)
+[Consulter le schéma électronique](hardware/Schematic_calculatrice.png)
 
 ## Auteur
 
