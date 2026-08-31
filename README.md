@@ -4,7 +4,7 @@ Ce projet présente une calculatrice réalisée autour d'une **Arduino Nano 33 B
 
 La première version de cette calculatrice a été réalisée en 2021 avec une Arduino Nano AVR et l'aide des membres du forum Arduino francophone, alors que je débutais en programmation et en électronique. Quelques mois plus tard, en septembre 2021, j'en ai développé une nouvelle version autour d'une Nano 33 BLE.
 
-En novembre 2024, j'ai conçu avec EasyEDA le circuit imprimé de la version présentée dans ce dépôt, puis je l'ai fait fabriquer par JLCPCB. Enfin, en août 2026, j'ai repris le projet afin de documenter le matériel, de corriger plusieurs défauts et de réécrire le programme de manière plus claire et plus robuste.
+En 2024, j'ai conçu avec EasyEDA le circuit imprimé de la version présentée dans ce dépôt, puis je l'ai fait fabriquer par JLCPCB. Enfin, en août 2026, j'ai repris le projet afin de documenter le matériel, de corriger plusieurs défauts et de réécrire le programme de manière plus claire et plus robuste.
 
 ## Fonctionnalités
 
@@ -469,4 +469,4 @@ La reprise du projet en août 2026 a été réalisée avec l'assistance de **Cha
 
 Les essais sur la calculatrice réelle, les observations de fonctionnement et la validation finale du programme ont été effectués par Philippe COSTES.
 
-Projet commencé en 2021, transposé sur circuit imprimé en novembre 2024 et entièrement repris en août 2026.
+Projet commencé en 2021, transposé sur circuit imprimé en 2024 et entièrement repris en août 2026.
